@@ -1,4 +1,4 @@
-## *Image-Processing-PA*
+## Pixel Manipulation using Doubly Linked List
 
 This repository contains my solution to the CPSC 221 Programming Assignment from UBC. 
 
